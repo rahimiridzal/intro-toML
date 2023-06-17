@@ -48,5 +48,5 @@ You are now ready to use the project within the configured conda environment.
 
 I would like to acknowledge the following resources that have contributed to my learning and understanding:
 
-- Article: [Handling Missing Values- Categorical & Numerical] (https://www.scaler.com/topics/data-science/categorical-missing-values/#) by Utkarsh
-- YouTube: [How to Implement Decision Trees from scratch with Python](https://www.youtube.com/watch?v=NxEHSAfFlK8) by AssemblyAI
+* Article: [Handling Missing Values- Categorical & Numerical](https://www.scaler.com/topics/data-science/categorical-missing-values/#) by Utkarsh
+* YouTube: [How to Implement Decision Trees from scratch with Python](https://www.youtube.com/watch?v=NxEHSAfFlK8) by AssemblyAI
