@@ -27,22 +27,25 @@ To set up the project environment, follow these steps:
     $ cd repository
 
 2. Create a new conda environment using the provided 'environment.yml' file:
+    
+    ```shell
     $ conda env create -f environment.yml
 
-This command will create a new conda environment with all the necessary dependencies specified in the environment.yml file.
+    This command will create a new conda environment with all the necessary dependencies specified in the environment.yml file.
 
 3. Activate the newly created environment:
+    ```shell
     $ conda activate intro-toML
 
-Replace intro-toML with the name of the environment if you specified a different name in the environment.yml file.
+    Replace intro-toML with the name of the environment if you specified a different name in the environment.yml file.
 
 4. Launch jupyter notebook:
-
+    ```shell
     $ jupyter notebook
 
 5. In the Jupyter Notebook interface, navigate to the project directory and open the notebook file 'intro-toML.ipynb'.
 
 You are now ready to use the project within the configured conda environment. Ensure that the environment is activated whenever you want to run the project.
-
+    ```shell
     $ conda activate intro-toML
     $ jupyter notebook
