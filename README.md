@@ -31,13 +31,13 @@ To set up the project environment, follow these steps:
     ```shell
     $ conda env create -f environment.yml
 
-    This command will create a new conda environment with all the necessary dependencies specified in the environment.yml file.
+    #This command will create a new conda environment with all the necessary dependencies specified in the environment.yml file.
 
 3. Activate the newly created environment:
     ```shell
     $ conda activate intro-toML
 
-    Replace intro-toML with the name of the environment if you specified a different name in the environment.yml file.
+    #Replace intro-toML with the name of the environment if you specified a different name in the environment.yml file.
 
 4. Launch jupyter notebook:
     ```shell
