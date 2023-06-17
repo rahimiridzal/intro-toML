@@ -7,11 +7,6 @@ venv/
 env/
 *.env
 
-# Ignore data files
-data/
-*.csv
-*.xlsx
-
 # Ignore compiled Python bytecode
 __pycache__/
 *.pyc
