@@ -109,4 +109,3 @@ dependencies:
   - yaml=0.2.5=haf1e3a3_0
   - zeromq=4.3.4=h23ab428_0
   - zlib=1.2.13=h4dc903c_0
-prefix: /Users/rahimi/opt/anaconda3/envs/intro-toML
