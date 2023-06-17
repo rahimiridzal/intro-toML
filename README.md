@@ -1,5 +1,5 @@
 # intro-toML
-Introduction to Machine Learning classification problem. Includes Data Preprocessing and Decision Tree implementation using only NumPy.
+Introduction to Machine Learning classification problem, includes Data Preprocessing and Decision Tree implementation using only NumPy.
 
 ## Table of Contents
 
