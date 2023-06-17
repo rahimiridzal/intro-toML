@@ -5,9 +5,6 @@ Introduction to Machine Learning classification problem. Includes Data Preproces
 
 - [Project Description](#project-description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [References](#references)
 
 ## Project Description
@@ -45,7 +42,4 @@ To set up the project environment, follow these steps:
 
 5. In the Jupyter Notebook interface, navigate to the project directory and open the notebook file 'intro-toML.ipynb'.
 
-You are now ready to use the project within the configured conda environment. Ensure that the environment is activated whenever you want to run the project.
-    ```shell
-    $ conda activate intro-toML
-    $ jupyter notebook
+You are now ready to use the project within the configured conda environment.
