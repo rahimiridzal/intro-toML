@@ -9,7 +9,7 @@ Introduction to Machine Learning classification problem, includes Data Preproces
 
 ## Project Description
 
-This project provides an end-to-end overview of how to approach a simple classification problem. The aim is to offer an alternative solution that intentionally avoids the use of Pandas, as there are already numerous open resources available utilising it.
+This project provides an end-to-end overview of how to approach a simple classification problem. The aim is to offer an alternative solution that intentionally avoids the use of Pandas and other commonly used packages, as there are already numerous open resources available utilising it.
 
 Note: While this project intentionally avoids Pandas, it does not imply that Pandas is ineffective or should be avoided in general. It simply provides an alternative perspective to broaden your skill set and encourage exploration.
 
